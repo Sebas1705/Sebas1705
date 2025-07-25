@@ -12,7 +12,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Computer Engineering student, with great interest in the world of applied software
+🎓 Computer Engineering and software delveloper
   
 📫 Contact: **sebssgarcia502580@gmail.com**
 <!--Intro end-->

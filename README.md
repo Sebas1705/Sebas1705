@@ -1,83 +1,94 @@
-<h1 align="center"> Hi I'm Sebas 👋 </h1> 
+<div align="center">
 
-<h2 align="left"> Contact me ☎️ </h2>
-<p align="left">
- <a href="https://www.linkedin.com/in/sebastián-ramiro-entrerrios-garcía-b1a713217/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sebastián Ramiro Entrerrios García"/></a>
- <a href = "mailto:sebssgarcia502580@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@sebssgarcia502580"  /></a>
- <a href="https://www.codewars.com/users/Sebas1705" target="blank"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Sebas1705"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Sebastián%20Entrerrios&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-<br>
-<h2>About me 😃</h2>
-<!--Intro start-->
-
-<p align="left">
-🎓 Computer Engineering and software delveloper
-  
-📫 Contact: **sebssgarcia502580@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Programming languages👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,css,haskell,html,java,js,kotlin,py,ts&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
-
-<h2 >Known Tecnologies🔧</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cmake,bots,django,docker,express,fastapi,git,gradle,ktor,maven,mysql,nodejs,npm,opencv,postman,powershell,rabbitmq,react,spring,stackoverflow&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
-
-<h2 >Work Environments🏢</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,anaconda,arduino,bash,clion,eclipse,idea,github,gitlab,linux,powershell,processing,pycharm,ubuntu,vim,visualstudio,vscode,windows&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Sebas1705&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebas1705&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sebas1705&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Sebas1705&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
 </div>
-<!--- trophy (start) -->
 
+<div align="center">
 
-</p>        
-<!--- stats (end) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-ramiro-entrerrios-garcia-b1a713217/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebssgarcia502580@gmail.com)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Sebas1705)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://sebas1705.github.io/carreerV2)
+
+</div>
+
+---
+
+## 👋 About me
+
+```kotlin
+val sebastian = Developer(
+    location  = "Madrid, Spain 🇪🇸",
+    role      = "Full Stack & Mobile Developer",
+    languages = listOf("Kotlin", "TypeScript", "Python", "Java"),
+    focus     = listOf("Android / KMP", "Clean Architecture", "REST APIs"),
+    learning  = "AI Integration · DevSecOps · iOS (SwiftUI)",
+    openTo    = "Remote opportunities & open source collaboration"
+)
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Mobile & Multiplatform**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+**Web & Backend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**KMPNativeBase**](https://github.com/Sebas1705/KMPNativeBase) | Production-ready KMP template with Clean Architecture, convention plugins and CI/CD | Kotlin · KMP · Compose |
+| [**YouKnow**](https://github.com/Sebas1705/YouKnow) | Android trivia app with Firebase, OpenTriviaDB and multi-module Clean Architecture | Kotlin · Compose · Firebase |
+| [**career-api-worker**](https://github.com/Sebas1705/career-api-worker) | Live REST API powering my portfolio — Cloudflare Workers + KV + Swagger UI | TypeScript · Cloudflare |
+| [**ImpostorAndroidGame**](https://github.com/Sebas1705/ImpostorAndroidGame) | Real-time group deduction game for Android | Kotlin · Compose |
+| [**career-editor-kmp**](https://github.com/Sebas1705/career-editor-kmp) | KMP desktop + Android editor for the career API | Kotlin · KMP |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sebas1705&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas1705&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebas1705&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+
+</div>

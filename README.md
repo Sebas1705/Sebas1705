@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Sebastián%20Entrerrios&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6C63FF&amp;height=200&amp;section=header&amp;text=Sebastian%20Entrerrios&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20%26%20Mobile%20Developer&amp;descAlignY=58&amp;descSize=18&amp;descColor=ffffff" width="100%"/>
 
 </div>
 
@@ -74,14 +74,14 @@ val sebastian = Developer(
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sebas1705&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas1705&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sebas1705&amp;theme=tokyonight&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas1705&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebas1705&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebas1705&amp;theme=tokyonight&amp;hide_border=true" />
 
 </div>
 
@@ -89,6 +89,6 @@ val sebastian = Developer(
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6C63FF&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>

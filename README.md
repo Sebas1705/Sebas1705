@@ -65,7 +65,7 @@ val sebastian = Developer(
 | [**KMPNativeBase**](https://github.com/Sebas1705/KMPNativeBase) | Production-ready KMP template with Clean Architecture, convention plugins and CI/CD | Kotlin · KMP · Compose |
 | [**YouKnow**](https://github.com/Sebas1705/YouKnow) | Android trivia app with Firebase, OpenTriviaDB and multi-module Clean Architecture | Kotlin · Compose · Firebase |
 | [**career-api-worker**](https://github.com/Sebas1705/career-api-worker) | Live REST API powering my portfolio — Cloudflare Workers + KV + Swagger UI | TypeScript · Cloudflare |
-| [**ImpostorAndroidGame**](https://play.google.com/store/apps/details?id=es.sebas1705.impostorandroidgame) | Real-time group deduction game for Android | Kotlin · Compose |
+| [**Omni-Impostor**](https://play.google.com/store/apps/details?id=es.sebas1705.impostorandroidgame) | Real-time group deduction game for Android | Kotlin · Compose |
 | [**career-editor-kmp**](https://github.com/Sebas1705/career-editor-kmp) | KMP desktop + Android editor for the career API | Kotlin · KMP |
 
 ---

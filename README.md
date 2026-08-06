@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastián-ramiro-entrerrios-garcía-b1a713217/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebssgarcia502580@gmail.com)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Sebas1705)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://sebas1705.github.io/carreerV2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://sebas1705carreer.github.io/carreerV2/)
 
 </div>
 
@@ -64,9 +64,9 @@ val sebastian = Developer(
 |---------|-------------|-------|
 | [**KMPNativeBase**](https://github.com/Sebas1705/KMPNativeBase) | Production-ready KMP template with Clean Architecture, convention plugins and CI/CD | Kotlin · KMP · Compose |
 | [**YouKnow**](https://github.com/Sebas1705/YouKnow) | Android trivia app with Firebase, OpenTriviaDB and multi-module Clean Architecture | Kotlin · Compose · Firebase |
-| [**career-api-worker**](https://github.com/Sebas1705/career-api-worker) | Live REST API powering my portfolio — Cloudflare Workers + KV + Swagger UI | TypeScript · Cloudflare |
+| [**career-api-worker**](https://github.com/Sebas1705Carreer/career-api-worker) | Live REST API powering my portfolio — Cloudflare Workers + KV + Swagger UI | TypeScript · Cloudflare |
 | [**Omni-Impostor**](https://play.google.com/store/apps/details?id=es.sebas1705.impostorandroidgame) | Real-time group deduction game for Android | Kotlin · Compose |
-| [**career-editor-kmp**](https://github.com/Sebas1705/career-editor-kmp) | KMP desktop + Android editor for the career API | Kotlin · KMP |
+| [**career-editor-kmp**](https://github.com/Sebas1705Carreer/career-editor-kmp) | KMP desktop + Android editor for the career API | Kotlin · KMP |
 
 ---
 

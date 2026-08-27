@@ -20,7 +20,7 @@
 ```kotlin
 val sebastian = Developer(
     location  = "Madrid, Spain 🇪🇸",
-    role      = "<!-- api:role -->Senior Full Stack & Mobile Developer @ Solusoft<!-- /api:role -->",
+    role      = "<!-- api:role --><!-- /api:role -->",
     languages = listOf("Kotlin", "TypeScript", "C#", "Java", "Swift", "Go"),
     focus     = listOf("Android / KMP", "Clean Architecture", "REST APIs"),
     learning  = "DevSecOps · SwiftUI · AI-assisted engineering",
@@ -28,7 +28,7 @@ val sebastian = Developer(
 )
 ```
 
-<!-- api:tagline -->Full stack and mobile engineer: design fast frontends, solid APIs and production-ready mobile experiences.<!-- /api:tagline -->
+<!-- api:tagline --><!-- /api:tagline -->
 Intern to Senior at [Solusoft](https://www.solusoft.es/) in under two years,
 owning the lifecycle of the products I build.
 
@@ -99,7 +99,7 @@ the same data.
 | [**YouKnow**](https://github.com/Sebas1705/YouKnow) | Android trivia app — Firebase, OpenTriviaDB, multi-module Clean Architecture | Kotlin · Compose · Firebase |
 | [**Omni-Impostor**](https://play.google.com/store/apps/details?id=es.sebas1705.impostorandroidgame) | Real-time group deduction game, published on Google Play | Kotlin · Compose · Firebase |
 
-<!-- api:project-count -->20<!-- /api:project-count --> projects across work, academic and personal contexts are listed on the
+<!-- api:project-count --><!-- /api:project-count --> projects across work, academic and personal contexts are listed on the
 [portfolio](https://sebas1705carreer.github.io/carreerV2/) — including the
 Solusoft products I own end to end, and an [Enigma machine on MPI](https://github.com/Sebas1705/Enigma).
 
@@ -107,9 +107,8 @@ Solusoft products I own end to end, and an [Enigma machine on MPI](https://githu
 
 ## 🎓 Education & Certifications
 
-<!-- api:education -->- **Master's in AI Development** — BigSchool & Isabel I University · October 2025 - June 2026
-- **Computer Engineering** — Universidad Rey Juan Carlos · September 2020 - July 2025<!-- /api:education -->
-<!-- api:certifications -->- **10 certifications** in Jetpack Compose, Kotlin Multiplatform, SwiftUI, ASP.NET Core, Firebase and Google Cloud<!-- /api:certifications -->
+<!-- api:education --><!-- /api:education -->
+<!-- api:certifications --><!-- /api:certifications -->
 
 ---
 

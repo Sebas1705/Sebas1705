@@ -99,7 +99,7 @@ the same data.
 | [**YouKnow**](https://github.com/Sebas1705/YouKnow) | Android trivia app — Firebase, OpenTriviaDB, multi-module Clean Architecture | Kotlin · Compose · Firebase |
 | [**Omni-Impostor**](https://play.google.com/store/apps/details?id=es.sebas1705.impostorandroidgame) | Real-time group deduction game, published on Google Play | Kotlin · Compose · Firebase |
 
-<!-- api:project-count -->20<!-- /api:project-count --> projects across work, academic and personal contexts are listed on the
+<!-- api:project-count -->23<!-- /api:project-count --> projects across work, academic and personal contexts are listed on the
 [portfolio](https://sebas1705carreer.github.io/carreerV2/) — including the
 Solusoft products I own end to end, and an [Enigma machine on MPI](https://github.com/Sebas1705/Enigma).
 

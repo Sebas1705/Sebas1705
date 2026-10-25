@@ -9,6 +9,10 @@ on:
     # would be a daily no-op.
     - cron: "0 7 * * 1"
   workflow_dispatch:
+  repository_dispatch:
+    # The career API's deploy can ping this instead of waiting for Monday:
+    #   gh api repos/Sebas1705/Sebas1705/dispatches -f event_type=career-api-updated
+    types: [career-api-updated]
   push:
     # A template edit should show up without waiting for Monday.
     paths:

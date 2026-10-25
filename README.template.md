@@ -92,12 +92,13 @@ the same data.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Templetry**](https://github.com/Templetry) | Project scaffolding for twelve ecosystems, delivered to any git forge. Templates that compile, a Go engine, a desktop app and an MCP server | Go · Wails · React |
-| [**AxiomNode**](https://github.com/AxiomNode) | Distributed platform: orchestration, observability and multi-language services | TypeScript · Python · Kotlin |
+| [**Templetry**](https://github.com/Templetry) | Project scaffolding for twelve ecosystems: compilable templates verified in CI, a pure Go engine + CLI, a Wails desktop app and an MCP server | Go · Wails · React |
+| [**AxiomNode**](https://github.com/AxiomNode) | Master's final project: production-grade microservices platform — API gateway, BFFs, AI engine with RAG, Kubernetes, CI/CD and observability | TypeScript · Python · Kotlin |
 | [**Career Ecosystem**](https://github.com/Sebas1705Carreer) | This portfolio as a product — live API, React site and the **Folio** KMP editor that writes to it | Cloudflare Workers · React · KMP |
-| [**KMPNativeBase**](https://github.com/Sebas1705/KMPNativeBase) | Production-ready KMP template: Clean Architecture, convention plugins, CI/CD | Kotlin · KMP · Compose |
+| [**Owlsplit**](https://github.com/Sebas1705/Owlsplit) | Shared group expenses for Android + iOS — offline-first sync, debt simplification, live web guest view ([owlsplit.web.app](https://owlsplit.web.app)) | Kotlin · KMP · Compose |
+| [**WinForge**](https://github.com/Sebas1705/WinForge) | Windows app & dev-toolchain installer on top of winget — 800+ verified apps, 40+ profiles, PC health and repair, backups | Go · Wails · React |
 | [**YouKnow**](https://github.com/Sebas1705/YouKnow) | Android trivia app — Firebase, OpenTriviaDB, multi-module Clean Architecture | Kotlin · Compose · Firebase |
-| [**Omni-Impostor**](https://play.google.com/store/apps/details?id=es.sebas1705.impostorandroidgame) | Real-time group deduction game, published on Google Play | Kotlin · Compose · Firebase |
+| [**Omni-Impostor**](https://play.google.com/store/apps/details?id=es.sebas1705.impostorandroidgame) | Offline pass-the-phone party game, published on Google Play | Kotlin · Compose · Material 3 |
 
 <!-- api:project-count --><!-- /api:project-count --> projects across work, academic and personal contexts are listed on the
 [portfolio](https://sebas1705carreer.github.io/carreerV2/) — including the

@@ -76,7 +76,7 @@ const blocks = {
   role,
   tagline: en(personal.tagline),
   education: study,
-  certifications: `- **${counts.certifications} certifications** in Jetpack Compose, Kotlin Multiplatform, SwiftUI, ASP.NET Core, Firebase and Google Cloud`,
+  certifications: `- **${counts.certifications} certifications** in Jetpack Compose, Kotlin Multiplatform, SwiftUI, ASP.NET Core and Firebase, plus Google Skillshop fundamentals (Cloud Computing, Gemini)`,
   "project-count": String(counts.projects),
 };
 

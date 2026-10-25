@@ -96,7 +96,7 @@ the same data.
 | [**AxiomNode**](https://github.com/AxiomNode) | Distributed platform: orchestration, observability and multi-language services | TypeScript · Python · Kotlin |
 | [**Career Ecosystem**](https://github.com/Sebas1705Carreer) | This portfolio as a product — live API, React site and the **Folio** KMP editor that writes to it | Cloudflare Workers · React · KMP |
 | [**Owlsplit**](https://github.com/Sebas1705/Owlsplit) | Shared group expenses for Android + iOS — offline-first sync, debt simplification, live web guest view ([owlsplit.web.app](https://owlsplit.web.app)) | Kotlin · KMP · Compose |
-| [**WinForge**](https://github.com/Sebas1705/WinForge) | Windows app & dev-profile installer on top of winget — 700+ app catalog, profiles and lockfiles | Go · Wails · Svelte |
+| [**WinForge**](https://github.com/Sebas1705/WinForge) | Windows app & dev-profile installer on top of winget — 700+ app catalog, profiles and lockfiles | Go · Wails · React |
 | [**YouKnow**](https://github.com/Sebas1705/YouKnow) | Android trivia app — Firebase, OpenTriviaDB, multi-module Clean Architecture | Kotlin · Compose · Firebase |
 | [**Omni-Impostor**](https://play.google.com/store/apps/details?id=es.sebas1705.impostorandroidgame) | Offline pass-the-phone party game, published on Google Play | Kotlin · Compose · Material 3 |
 

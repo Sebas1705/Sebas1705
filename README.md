@@ -28,7 +28,7 @@ val sebastian = Developer(
 )
 ```
 
-<!-- api:tagline -->Full stack and mobile engineer: design fast frontends, solid APIs and production-ready mobile experiences.<!-- /api:tagline -->
+<!-- api:tagline -->Clean architecture, tested code and products that reach real users.<!-- /api:tagline -->
 Intern to Senior at [Solusoft](https://www.solusoft.es/) in under two years,
 owning the lifecycle of the products I build.
 

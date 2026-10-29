@@ -28,7 +28,7 @@ val sebastian = Developer(
 )
 ```
 
-<!-- api:tagline -->Full stack and mobile engineer: design fast frontends, solid APIs and production-ready mobile experiences.<!-- /api:tagline -->
+<!-- api:tagline -->Clean architecture, tested code and products that reach real users.<!-- /api:tagline -->
 Intern to Senior at [Solusoft](https://www.solusoft.es/) in under two years,
 owning the lifecycle of the products I build.
 
@@ -65,8 +65,6 @@ the same data.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -92,11 +90,12 @@ the same data.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Templetry**](https://github.com/Templetry) | Project scaffolding for twelve ecosystems: compilable templates verified in CI, a pure Go engine + CLI, a Wails desktop app and an MCP server | Go · Wails · React |
+| [**Templetry**](https://github.com/Templetry) | Project scaffolding for twelve ecosystems: 29 compilable templates verified in CI, a pure Go engine + CLI, a Wails desktop app and an MCP server | Go · Wails · React |
 | [**AxiomNode**](https://github.com/AxiomNode) | Master's final project: production-grade microservices platform — API gateway, BFFs, AI engine with RAG, Kubernetes, CI/CD and observability | TypeScript · Python · Kotlin |
 | [**Career Ecosystem**](https://github.com/Sebas1705Carreer) | This portfolio as a product — live API, React site and the **Folio** KMP editor that writes to it | Cloudflare Workers · React · KMP |
 | [**Owlsplit**](https://github.com/Sebas1705/Owlsplit) | Shared group expenses for Android + iOS — offline-first sync, debt simplification, live web guest view ([owlsplit.web.app](https://owlsplit.web.app)) | Kotlin · KMP · Compose |
-| [**WinForge**](https://github.com/Sebas1705/WinForge) | Windows app & dev-toolchain installer on top of winget — 800+ verified apps, 40+ profiles, PC health and repair, backups | Go · Wails · React |
+| [**Haltera**](https://github.com/Sebas1705/Haltera) | Free gym logbook for Android + iOS — log any session on any date, edit everything; in Play closed testing | Kotlin · KMP · Compose |
+| [**WinForge**](https://github.com/Sebas1705/WinForge) | Windows app & dev-toolchain installer on top of winget — 870+ verified apps, 40+ profiles, PC health and repair, backups | Go · Wails · React |
 | [**YouKnow**](https://github.com/Sebas1705/YouKnow) | Android trivia app — Firebase, OpenTriviaDB, multi-module Clean Architecture | Kotlin · Compose · Firebase |
 | [**Omni-Impostor**](https://play.google.com/store/apps/details?id=es.sebas1705.impostorandroidgame) | Offline pass-the-phone party game, published on Google Play | Kotlin · Compose · Material 3 |
 
@@ -114,14 +113,7 @@ Solusoft products I own end to end, and an [Enigma machine on MPI](https://githu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sebas1705&amp;theme=tokyonight&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas1705&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" />
-
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
 
